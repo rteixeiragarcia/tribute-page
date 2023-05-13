@@ -1,1 +1,1 @@
-Tribute page for Abel Ferreira
+Tribute page for Dr. Norman Borlaug

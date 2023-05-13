@@ -1,0 +1,44 @@
+img {
+    display: block;
+}
+#image {
+    max-width: 100%;
+    margin: auto;
+}
+figcaption {
+    text-align: center;
+    padding: 15px;
+}
+#fig-div {
+    background-color: white;
+    width: 99%;
+}
+#main {
+    background-color: #a2a2a2;
+}
+#title, #description {
+    text-align: center;
+}
+#title {
+    padding-top: 50px;
+    font-size: 3rem;
+}
+#time-line {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 1.5rem;
+}
+#list-div {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+#tribute-info {
+    width: 33%;
+}
+#time {
+    margin: 15px auto;
+}
+#testimonial {
+    margin: 20px;
+}
